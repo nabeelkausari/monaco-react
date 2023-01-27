@@ -1,7 +1,7 @@
 // TODO: the whole content should be improved in the next version.
 
 import * as React from 'react';
-import * as monaco from 'monaco-editor/esm/vs/editor/editor.api';
+import * as monaco from 'nabeel-monaco-editor/esm/vs/editor/editor.api';
 
 // default themes
 type Theme =
